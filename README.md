@@ -26,3 +26,4 @@ npm run server
 cd frontend
 npm run build
 ```
+
